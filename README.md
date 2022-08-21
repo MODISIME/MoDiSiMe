@@ -13,3 +13,6 @@ Los docentes de la materia son los encargados del mantenimiento y actulización 
 Los docentes corresponden a la materia Modelado de Dinámica y Sistemas Mecánicos de la facultad de Ingeniería pertenenciente a la Universidad Nacional de Lomas de Zamora.
 
 EL equipo esta compuesto por el Dr. Ing. Elvio Heidenreich, Ing. Luis Oscar Cottone y el Ing. Ayrton Marcelo da Silva.
+
+### Notas
+Vamos a tratar de organizar el contenido por temas, y además ofrecer una guía de recomendación para ver el contenido según el calendario de la cursada. Como esta herramienta es nueva, es todo intención por lo que seguramente al principio este confuso, pero lo vamos a ir puliendo. Si tienen dudas, correcciones o recomendaciones, avisen.
